@@ -39,12 +39,15 @@ public class Classroom {
     public String getName(){
         return this.name;
     }
+
     public int getAge(){
         return this.age;
     }
+
     public String getAddress(){
         return this.address;
     }
+
     public String getEmail(){
         return this.email;
     }
